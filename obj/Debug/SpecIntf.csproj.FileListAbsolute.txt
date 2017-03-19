@@ -1,0 +1,6 @@
+c:\users\tino\documents\visual studio 2015\Projects\SpecIntf\SpecIntf\bin\Debug\SpecIntf.exe.config
+c:\users\tino\documents\visual studio 2015\Projects\SpecIntf\SpecIntf\obj\Debug\SpecIntf.csprojResolveAssemblyReference.cache
+c:\users\tino\documents\visual studio 2015\Projects\SpecIntf\SpecIntf\bin\Debug\SpecIntf.exe
+c:\users\tino\documents\visual studio 2015\Projects\SpecIntf\SpecIntf\bin\Debug\SpecIntf.pdb
+c:\users\tino\documents\visual studio 2015\Projects\SpecIntf\SpecIntf\obj\Debug\SpecIntf.exe
+c:\users\tino\documents\visual studio 2015\Projects\SpecIntf\SpecIntf\obj\Debug\SpecIntf.pdb
